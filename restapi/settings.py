@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-m112wy=3zs=1la!(jw_&r=&n(_$$73c0%y(@j3vm*i4o$t%5b*
 DEBUG = False
 
 ALLOWED_HOSTS = ['*']
-
+# Создал ветку чтобы сделать пулл
 
 # Application definition
 
